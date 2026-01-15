@@ -1,8 +1,5 @@
 {
   "origins": [
     "https://www.gitsay.com"
-  ],
-  "origins": [
-    "http://localhost:4321"
   ]
 }
